@@ -1,0 +1,10 @@
+{
+  "PROJECT_NAME": "panel",
+  "ENV": "developer",
+  "LOG_SERIALIZE": false,
+  "SERVER_DEBUG": true,
+  "SERVER_PORT": 8888,
+  "SERVER_NAME": "panel",
+  "SERVER_PROTOCOL": "http"
+}
+
